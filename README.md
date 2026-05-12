@@ -1,2 +1,2 @@
-<h1>Front-end practice for devolping my skills</h1>
+<h1>JAVASCRIPT practice for devolping my skills</h1>
 
